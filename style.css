@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.banner {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(room.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar {
+    width: 70%;
+    margin: auto;
+    padding: 35px 0; /*35px sayfanın başından navbara kadar olanki boşluk. */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.logo{
+    width: 120px;
+    cursor: pointer; /*farenin el imleci olan halidir. */
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px; /*navbardaki menulerin birbirine olan uzaklığı */
+    position: relative;
+} 
+
+.navbar ul li a{ 
+    text-decoration: none;  /* Yazının altını çizmez. */
+    color: #fff; 
+    text-transform: uppercase; /* Büyük harfe çevirir. */
+}
+
+.navbar ul li::after {
+    content: '' ;
+    height: 3px;
+    width: 0;
+    background: #556b2f;
+    position: absolute;
+    left: 0;
+    bottom: -10px; /* Navbardaki yazıların çizgiye olan alt uzaklığı */
+    transition: 0.5s; /* Geçiş efektidir. "Transition" özelliğindeki width ile efektin sadece genişlik özelliğine uygulanır. */
+    /* Burada 0.5saniye sürede gerçekleşecektir. */
+}
+
+.navbar ul li:hover::after{
+    width: 100%;
+}
+
+.content {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fff;
+
+}
+
+.content h1 {
+    font-size: 70px;
+    margin-top: 80px;
+
+}
+
+content p{
+    margin: 20px auto;
+    font-weight: 100;
+    line-height: 25px;
+}
+
+button {
+    width: 200px;
+    padding: 15px 0; /*15px butonun(nesnenin) etrafında bulunan kenarlık ile arasındaki yukarıdan aşağıdan mesafe. 0 ise sağdan ve soldan mesafe. */
+    margin: 30px 10px; /*Butonun içeriğine olan uzaklığır. 20px yukarıdan aşağıdan, 10px sağdan soldan mesafe vardır.*/
+    text-align: center;
+    color: #556b2f;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #556b2f;
+    background: transparent;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+span {
+    background: #556b2f;
+    height: 100%;
+    width: 0;
+    border-radius: 25px;
+    position: absolute;
+    left: 0;
+    bottom : 0;
+    z-index: -1;
+    transition: 0.5s;
+}
+
+button:hover span {
+    width: 100%;
+}
+
+button:hover {
+    border: none;
+}
