@@ -21,7 +21,7 @@ In addition, it consists of a heading, a paragraph and a button.
 
 Transition effect is used in the navbar and button. And this is set to 0.5s.
 
-The photo is taken from pinterenst.
+The photo is taken from pinterest.
 
 The project is uploaded as a zip. You can download logo, photo and source code. Thank you!
 
