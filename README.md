@@ -14,7 +14,7 @@ This project was made while learning HTML, CSS, JavaScript.
 is used.
 
 In this project, which consists of only the homepage design, I preferred to use the green color in my navbar, logo and button. 
-The green color I use is #556b2f;
+The green color I use is **#556b2f**
 
 This project consists of a navbar consisting of "home, bedroom, dining, kitchen, backyard sections.
 In addition, it consists of a heading, a paragraph and a button.
