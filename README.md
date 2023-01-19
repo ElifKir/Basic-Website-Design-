@@ -10,6 +10,7 @@ In this project:
 🔶HTML
 
 🔶CSS 
+
 is used.
 
 In this project, which consists of only the homepage design, I preferred to use the green color in my navbar, logo and button. 
