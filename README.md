@@ -6,6 +6,7 @@ I've made a "design your home" themed website interface.
 This project was made while learning HTML, CSS, JavaScript. 
 
 In this project:
+
 🔶HTML
 
 🔶CSS 
