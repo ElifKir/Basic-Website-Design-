@@ -1,5 +1,5 @@
 # Basic-Website-Design-
-Basic Website Design With HTML &amp; CSS
+**Basic Website Design With HTML &amp; CSS**
 
 I've made a "design your home" themed website interface.
  
@@ -32,3 +32,5 @@ SCREENSHOTS
 
 
 
+
+![1](https://user-images.githubusercontent.com/75785258/213534933-ea6f8801-a361-4558-bdb2-1e04e16446ce.png)
