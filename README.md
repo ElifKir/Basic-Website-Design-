@@ -5,7 +5,7 @@ I've made a "design your home" themed website interface.
  
 This project was made while learning HTML, CSS, JavaScript. 
 
-In this project:
+*In this project:*
 
 🔶HTML
 
@@ -26,7 +26,7 @@ The photo is taken from pinterenst.
 The project is uploaded as a zip. You can download logo, photo and source code. Thank you!
 
 
-SCREENSHOTS
+**SCREENSHOTS**
 
 
 
@@ -34,3 +34,7 @@ SCREENSHOTS
 
 
 ![1](https://user-images.githubusercontent.com/75785258/213534933-ea6f8801-a361-4558-bdb2-1e04e16446ce.png)
+![4](https://user-images.githubusercontent.com/75785258/213535282-671791a3-5aab-49a4-9890-58d1778f1f33.png)
+![2](https://user-images.githubusercontent.com/75785258/213535367-8a68b6b9-754d-448c-9218-698fad1d554d.png)
+![3](https://user-images.githubusercontent.com/75785258/213535447-a21795fd-42ef-49fd-98d9-2bc22154d1a3.png)
+
