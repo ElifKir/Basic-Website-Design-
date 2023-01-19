@@ -7,6 +7,7 @@ This project was made while learning HTML, CSS, JavaScript.
 
 In this project:
 🔶HTML
+
 🔶CSS 
 is used.
 
