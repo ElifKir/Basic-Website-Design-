@@ -23,7 +23,7 @@ Transition effect is used in the navbar and button. And this is set to 0.5s.
 
 The photo is taken from pinterest.
 
-The project is uploaded as a zip. You can download logo, photo and source code. Thank you!
+The project is uploaded as a zip&rar. You can download logo, photo and source code. Thank you!
 
 
 **SCREENSHOTS**
