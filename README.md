@@ -26,5 +26,9 @@ The photo is taken from pinterenst.
 The project is uploaded as a zip. You can download logo, photo and source code. Thank you!
 
 
+SCREENSHOTS
+
+
+
 
 
